@@ -1,1 +1,1 @@
-worker:python p2p_journal.py
+worker : python p2p_journal.py
